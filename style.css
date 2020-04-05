@@ -1,0 +1,98 @@
+body
+{
+    text-align:center;
+   
+    background: url("images/favourite1.jpg") no-repeat center fixed; 
+    background-size: cover;
+}
+
+
+
+.form
+{
+    
+    background-color :  lightyellow;
+    width:50%;
+
+    margin: 100px auto auto auto;
+     
+    border-style:solid;
+    border-radius:5%;
+}
+
+.button
+{
+    background-color: blue;
+    color: white;
+    
+    height:50px;
+    padding:5px;
+    border-radius: 20%;
+
+    font-family: 'Cookie', cursive;
+}
+.h1
+{
+    position :relative;
+    top:10px;
+    
+    text-decoration: underline;
+    font-family: 'Volkhov', serif;
+}
+
+hr
+{
+    margin-top:20px;
+    border-width: 0px;
+    border-top-width: 2px;
+    margin-right :  80px;
+    margin-left : 80px;
+}
+
+
+.name
+{
+    width:400px;
+    height:20px;
+}
+
+.email
+{
+    width:400px;
+    height:20px;
+
+    margin-top : 30px;
+}
+
+
+.password
+{
+    width:400px;
+    height:20px;
+
+    margin-top :30px;
+}
+
+.checkbox
+{
+    margin-top:30px;
+    
+    font-family: 'Sacramento', cursive;
+}
+
+.button2 
+{
+    width : 250px;
+    height: 50px;
+
+
+    margin-top:30px;
+    margin-bottom:30px;
+    background-color: lightgreen;
+    color: black;
+
+    font-size:20px;
+
+    border-radius: 5%;
+
+}
